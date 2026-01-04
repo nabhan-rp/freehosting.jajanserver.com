@@ -1,7 +1,7 @@
 <?php
 $mofh = array(
      
-'title' => 'MOFHDevWorld', // Site title
+'title' => 'JajanServer Free Hosting Service', // Site title
      
 'description' => 'Get Free Professional Web Hosting for your Website', // Site Description
     
@@ -11,17 +11,17 @@ $mofh = array(
    
  'favicon' => '/img/favicon.ico', // your website favicon URL
      
- 'affid' => '25705', // your iFastNet affiliate ID
+ 'affid' => '28982', // your iFastNet affiliate ID
 
- 'mail' => 'contact@mofh.ooo', // email here
+ 'mail' => 'free@jajanserver.com', // email here
      
- 'facebook' => 'https://www.facebook.com/#', // your Facebook link
+ 'facebook' => 'https://www.facebook.com/nabhan.rp', // your Facebook link
      
- 'twitter' => 'https://twitter.com/#', // your Twitter link
+ 'twitter' => 'https://twitter.com/nabhanrpcom', // your Twitter link
      
- 'google-plus' => 'https://plus.google.com/#', // your Google Plus link
+ 'google-plus' => 'https://instagram.com/jajanserver', // your Google Plus link
      
- 'linkedin' => 'https://www.linkedin.com/in/#', // your LinkedIn link
+ 'linkedin' => 'https://www.linkedin.com/in/nabhanrp', // your LinkedIn link
 
 'domain' => strtolower(preg_replace('/^www\./' , '' , $_SERVER['HTTP_HOST'])), // Automatic Domain Recognition
 
